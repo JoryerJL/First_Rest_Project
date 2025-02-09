@@ -40,6 +40,7 @@ INSTALLED_APPS = [
 ]
 
 THIRD_PARTY_APPS = [
+    'rest_framework',
 ]
 
 LOCAL_APPS = [
