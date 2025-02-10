@@ -174,3 +174,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+.idea/First_Rest_Project.iml
+
+.idea/
